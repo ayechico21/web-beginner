@@ -1,0 +1,21 @@
+.list-group-item.disabled {
+  text-decoration: line-through;
+  pointer-events: all;
+}
+
+html,
+body {
+  box-sizing: border-box;
+  background-color: palegoldenrod;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+#wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
