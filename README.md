@@ -1,6 +1,6 @@
 # web-beginner
 
-## casino                                                                                
+## [casino](https://casino-slot.surge.sh/)                                                                 
 ### [demo](https://casino-slot.surge.sh/)
 ![casino screenshot](https://github.com/ayechico21/web-beginner/blob/main/casino-slot-machine/Screenshot.png?raw=true)
 
